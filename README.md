@@ -8,3 +8,10 @@ search is implemented using algolia search and database used is firebase by goog
 please add all the file as it is in vs code and include node modules in it by running command npm init -y
 execute the code by running command npm run dev start in vscode terminal 
 short as many url you want.
+
+
+task 1 and task 2 is done 
+optional task
+ui improvement 
+i also tried to host the website it  has been hosted but not working properly you can visit if you want https://urlshorten-ff22b.web.app/
+
